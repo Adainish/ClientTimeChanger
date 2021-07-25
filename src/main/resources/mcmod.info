@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "ClientTimeChanger",
+    "name": "ClientTimeChanger",
+    "description": "Update the Time for the Minecraft Client without affecting the Server or Real Time",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Adenydd"
+    ],
+    "credits": "cinque",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
